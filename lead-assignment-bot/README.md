@@ -79,7 +79,7 @@ Built an AI-powered lead assignment system that automatically:
 
 ## 🎥 Demo
 
-(Upload your video and paste link here)
+https://drive.google.com/file/d/12ScVi1wwQmFdUdxOLsyy-6yL0JM16GTz/view?usp=drive_link
 
 ---
 
