@@ -66,14 +66,14 @@ Built an AI-powered lead assignment system that automatically:
 
 ## 📸 Screenshots
 
-### 🔹 Lead Input & System Processing
-![Input](./lead-assignment-bot/input.png)
+### 🔹 Lead Input
+![Input](./lead-input.png)
 
-### 🔹 Assignment Output with Explanation
-![Output](./lead-assignment-bot/output.png)
+### 🔹 Assignment Output
+![Output](./assignment-output.png)
 
-### 🔹 Performance Dashboard
-![Dashboard](./lead-assignment-bot/dashboard.png)
+### 🔹 Dashboard
+![Dashboard](./analytics-dashboard.png)
 
 ---
 
