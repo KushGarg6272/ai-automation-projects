@@ -67,7 +67,7 @@ Built an AI-powered lead assignment system that automatically:
 ## 📸 Screenshots
 
 ### 🔹 Lead Input
-![Input](./lead-input.png)
+![Input](./input.png)
 
 ### 🔹 Assignment Output
 ![Output](./assignment-output.png)
