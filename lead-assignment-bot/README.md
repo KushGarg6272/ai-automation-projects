@@ -70,10 +70,10 @@ Built an AI-powered lead assignment system that automatically:
 ![Input](./input.png)
 
 ### 🔹 Assignment Output
-![Output](./assignment-output.png)
+![Output](./output.png)
 
 ### 🔹 Dashboard
-![Dashboard](./analytics-dashboard.png)
+![Dashboard](./dashboard.png)
 
 ---
 
