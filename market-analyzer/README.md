@@ -78,7 +78,7 @@ The system focuses not just on identifying opportunities but also explaining **w
 
 ## 🎥 Demo
 
-(Add your video link here)
+https://drive.google.com/file/d/1awSwOJRbP6P8-471Z--wbfMwi6y3VXW-/view?usp=drive_link
 
 ---
 
